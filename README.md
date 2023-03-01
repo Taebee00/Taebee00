@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Taebee00's GitHub 👋
 
 - #### 🔭 Inchoen National University
 - #### 🌱 Embedded System Engineering
