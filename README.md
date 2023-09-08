@@ -1,17 +1,13 @@
-### Welcome to Taebee00's GitHub 👋
-
-### Taebee00의 기록 공간
+### Taebee00
 
 - #### 🔭 Inchoen National University
 - #### 🌱 Embedded System Engineering
 
-#### 목표
-- [X] 인천대학교 교내 PBL 대회 대상 수상
-- [X] 2023 캡스턴 프로젝트 (하노이탑 해결 로봇팔)
-- [X] 깃허브 정리 및 기록
-- [ ] 한이음 프로젝트 (Object Tracking 구현)
-- [ ] 정보처리기사 자격증 취득
-- [ ] TOEIC-SPEAKING IH 취득
-- [ ] C++ 코딩테스트 강의 수강
-- [ ] IT, CS 관련 공부
-- [ ] 여러 분야 찾아보고 하고 싶은 분야를 찾기
+
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/C sharp-239120?style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaebee00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=taebee00)](https://solved.ac/taebee00)
