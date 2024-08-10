@@ -1,4 +1,4 @@
-# Hi, I'm Yeongjoe Na
+# Hi, I'm Yeongjoe Na [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaebee00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 I majored in embedded systems engineering, and am currently studying to become an embedded system developer at SSAFY.
 
 ## 🙋🏻‍♂️ Profile
@@ -16,9 +16,7 @@ I majored in embedded systems engineering, and am currently studying to become a
 |SQLD|-|2021.10.01|
 |TOEIC Listening&Reading|930|2022.02.27|
 |TOEIC Speaking|AL(170)|2023.10.07|
-|정보처리기사|-|202407.28|
+|정보처리기사|-|2024.07.28|
 
-## 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaebee00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+## 💡Problem Solving
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=taebee00)](https://solved.ac/taebee00)
